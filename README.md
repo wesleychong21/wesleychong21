@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Wesley Chong 👋
 
-<!--
-**wesleychong21/wesleychong21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software developer from Malaysia with a passion for creating innovative tech solutions. With experience in various tech roles, including CTO, Project Engineer, IT Manager, Technical Director, Product Manager, Lead UI Designer, and Software Engineer, I bring a versatile skill set to every project I undertake.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: **Fun Planet Card Game**
+- 🌱 Learning: **React, Sanity, Express.js, Mindfulness Meditation, Reiki**
+- 💬 Ask me about: **Software Development, Web Development, Public Speaking**
+- ⚡ Fun fact: I am a Toastmasters public speaking contest winner! (Chinese)
+
+
+## Skills
+
+- **Languages**: PHP, C#, JavaScript
+- **Frameworks**: React, Express.js, CodeIgniter
+- **Tools**: VS Code, Git, Macbook
+
+## Education
+
+- **Bachelors in Multimedia - Software and Animation**
+  - Multimedia University, Malaysia
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/wesleychong21)
+- [Twitter](https://twitter.com/wesleychong)
